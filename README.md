@@ -1,6 +1,6 @@
 # Hi, I'm Paul 👋🏾👨🏼‍🎓👨
 
-<img src="https://github.com/PaulMcDonagh-source/PaulMcDonagh-source/blob/main/Capture.PNG" alt="Picture" align="right">
+<img src="https://github.com/PaulMcDonagh-source/PaulMcDonagh-source/blob/main/fotor-ai-20240229115529.jpg" alt="Picture" align="right">
 I'm an aspiring software engineer/developer who is passionate about making and contributing code, learning more and building a community. Some technologies I enjoy working with include Python, SQL, HTML. In 2022, I have started this Tech Journey, learning Python and will continue this journey.
 
 - 🔭I have just finished my HyperionDev software development course and am looking to build on this by developing more complex projects.
